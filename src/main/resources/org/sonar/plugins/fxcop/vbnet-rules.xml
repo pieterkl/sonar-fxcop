@@ -14032,7 +14032,7 @@ namespace Samples
 
   <rule key="ImplementISerializableCorrectly">
     <configKey>CA2240</configKey>
-    <priority>MAJOR</priority>
+    <priority>MINOR</priority>
     <name><![CDATA[CA2240: Implement ISerializable correctly]]></name>
     <description><![CDATA[
 <h2>Cause</h2>
